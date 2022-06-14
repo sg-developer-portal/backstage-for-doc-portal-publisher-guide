@@ -4,6 +4,7 @@ metadata:
   name: backstage-for-doc-portal-publisher-guide
   annotations:
     github.com/project-slug: sg-developer-portal/backstage-for-doc-portal-publisher-guide
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
