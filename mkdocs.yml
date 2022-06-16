@@ -1,14 +1,16 @@
 site_name: "backstage-for-doc-portal-publisher-guide-document"
 site_description: "backstage-for-doc-portal-publisher-guide-document. This is a guide for the publisher of the document portal. It is a part of the documentation portal."
+edit_uri: edit/master/docs
 
 nav:
-  - Introduction: index.md
-  - Markdown Guide: markdown-features.md
-  - Mermaide Guide: mermaid.md
-  - Teams and Permissions: teams-and-permissions.md
-  - publishing-settings: publishing-settings.md
-  - Docsify Guide: docsify.md
-  - Collaborative Publishing: collaborative-publishing.md
+  - Collaboration:
+    - Collaborative Publishing: collaborative-publishing.md
+    - Teams and Permissions: teams-and-permissions.md
+  - Advanced:
+    - Docsify Guide: docsify.md
+    - Markdown Guide: markdown-features.md
+    - Mermaide Guide: mermaid.md
+    - publishing-settings: publishing-settings.md
 
 plugins:
   - techdocs-core
