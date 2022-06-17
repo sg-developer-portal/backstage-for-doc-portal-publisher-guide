@@ -1,16 +1,17 @@
 site_name: "backstage-for-doc-portal-publisher-guide-document"
 site_description: "backstage-for-doc-portal-publisher-guide-document. This is a guide for the publisher of the document portal. It is a part of the documentation portal."
+repo_url: https://github.com/sg-developer-portal/backstage-for-doc-portal-publisher-guide
 edit_uri: edit/master/docs
-
-nav:
-  - Collaboration:
-      - Collaborative Publishing: collaborative-publishing.md
-      - Teams and Permissions: teams-and-permissions.md
-  - Advanced:
-      - Docsify Guide: docsify.md
-      - Markdown Guide: markdown-features.md
-      - Mermaide Guide: mermaid.md
-      - publishing-settings: publishing-settings.md
 
 plugins:
   - techdocs-core
+
+nav:
+  - Collaboration:
+      - Collaborative Publishing: "collaboration/collaborative-publishing.md"
+      - Teams and Permissions: "collaboration/teams-and-permissions.md"
+  - Advanced:
+      - Docsify Guide: "advanced/docsify.md"
+      - Markdown Guide: "advanced/markdown-features.md"
+      - Mermaide Guide: "advanced/mermaid.md"
+      - publishing-settings: "advanced/publishing-settings.md"
