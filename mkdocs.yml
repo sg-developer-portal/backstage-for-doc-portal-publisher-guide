@@ -10,6 +10,7 @@ nav:
   - Collaboration:
       - Collaborative Publishing: "collaboration/collaborative-publishing.md"
       - Teams and Permissions: "collaboration/teams-and-permissions.md"
+      
   - Advanced:
       - Docsify Guide: "advanced/docsify.md"
       - Markdown Guide: "advanced/markdown-features.md"

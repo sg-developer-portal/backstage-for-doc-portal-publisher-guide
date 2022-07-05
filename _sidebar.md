@@ -8,4 +8,5 @@
 * Collaboration
   * [Teams and permissions](collaboration/teams-and-permissions)
   * [Collaborative publishing](collaboration/collaborative-publishing)
+  * [Yan Cool Documentation Guide](collaboration/dev-console-documentation)
 * [Showcase](showcase)
