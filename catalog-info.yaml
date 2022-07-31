@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-for-doc-portal-publisher-guide
+  name: Backstage-For-Doc-Portal-Publisher-Guide
   annotations:
     github.com/project-slug: sg-developer-portal/backstage-for-doc-portal-publisher-guide
     backstage.io/techdocs-ref: dir:.
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: documentation
   owner: developer-gov-sg
